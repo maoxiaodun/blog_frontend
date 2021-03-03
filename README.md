@@ -1,6 +1,7 @@
 # blog-frontend
 
-> blog frontend project
+> blog frontend 项目
+> 重构之前的旧主页 前后端分离
 
 ## Build Setup
 
