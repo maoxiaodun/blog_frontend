@@ -12,8 +12,8 @@
 </template>
 
 <script>
-import Header from '@/components/header/Header';
-import Banner from '@/components/banner/Banner'
+import Header from '@/components/header/header';
+import Banner from '@/components/banner/banner'
 export default {
     name: 'index',
     components:{
